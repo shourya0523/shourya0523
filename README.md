@@ -1,5 +1,6 @@
 # Hey there, I'm Shourya! 👋
 > "How fleeting are all human passions compared with the massive continuity of ducks."
+
 I'm a curious and adventurous Data Science & Economics student who loves exploring the world of music, food, and travel. I've lived on 3 continents and I'm always diving into new learning adventures.
 ## What I’m Into
 - **Music production & music tech**
