@@ -9,7 +9,7 @@
     🌍 Fun Fact: I've lived on 3 continents
 </pre>
 <br><br>
-<img src="https://github.com/shourya0523/shourya0523/blob/1e05a3704d0b78904302610e495657cfcb14bd0d/assets/kyubey.gif" height="100" />
+<img src="https://github.com/shourya0523/shourya0523/blob/1e05a3704d0b78904302610e495657cfcb14bd0d/assets/kyubey.gif" height="70" />
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/shouryadav)
