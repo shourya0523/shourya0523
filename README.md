@@ -1,22 +1,4 @@
-<p align="center">
-  Made with ❤️ &nbsp;|&nbsp; Thanks for stopping by!
-</p>
-Putting it all together, you’d get a sleek, dark-first layout that feels dynamic, keeps file-size low, and still uses only real badges & SVGs. Mix & match the above snippets, adjust your #58A6FF accent, and you’ll have a super-clean, unmistakably you presence on GitHub.
 
-
-
-
-
-
-
-You said:
-Great! Put it all together. Think about layout as well, making sure things are proportionate and well positioned
-
-
-ChatGPT said:
-markdown
-Copy
-Edit
 <!-- ==================== Hero & Quick Nav ==================== -->
 <div align="center" style="background: #0D1117; padding: 2rem; border-radius: 1rem;">
 
