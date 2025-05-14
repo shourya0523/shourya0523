@@ -1,5 +1,5 @@
 <!-- Hero Section with Gradient -->
-<div align="center" style="background: linear-gradient(135deg, #0D1117, #24292F); padding: 2rem; border-radius: 1rem;">
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #24292F); padding: 4rem; border-radius: 1rem;">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=58A6FF&center=true&width=1200&lines=%E2%9C%A9+Hi,+I'm+Shourya+%E2%9C%A9"
     alt="Typing SVG"
@@ -21,7 +21,7 @@
   </p>
 </div>
 
-<!-- Simple SVG Divider (hosted in your repo) -->
+<!-- Simple SVG Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shourya0523/assets/main/minimal-divider.svg" width="100%" alt="divider"/>
 </p>
