@@ -1,103 +1,58 @@
-<div align="center" style="background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d); padding: 2rem; border-radius: 1rem;">
-  <!-- ✨ Animated Intro -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=FFD700&center=true&width=1200&lines=%E2%9C%A9+Hi%2C+I'm+Shourya!+%E2%9C%A9" 
+<!-- Hero Section with Gradient -->
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #24292F); padding: 2rem; border-radius: 1rem;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=58A6FF&center=true&width=1200&lines=%E2%9C%A9+Hi,+I'm+Shourya+%E2%9C%A9"
     alt="Typing SVG"
   />
-
-  <!-- 🎓 & fun facts -->
-  <p style="color: #fff; font-size: 1.1rem; margin-top: 1rem;">
-    🎓 BSc in Data Science & Fintech @ Northeastern University · 💻 Finance | Machine Learning | AI<br/>
-    🎵 Music Producer · 🍣 Foodie · ✈️ Avid Traveler · 🌍 Lived on 3 Continents
+  <p style="color: #C9D1D9; margin-top: 1rem;">
+    🎓 BSc in Data Science & Fintech • 💻 Finance | Machine Learning | AI<br/>
+    🎵 Music Producer • 🍣 Foodie • ✈️ Traveler • 🌍 3 Continents
   </p>
-
-  <!-- 🔗 Social Buttons with pop of color -->
   <p>
     <a href="http://linkedin.com/in/shouryadav">
-      <img 
-        src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" 
-        alt="LinkedIn"
-      />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://shourya0523.github.io/portfolio_site/">
-      <img 
-        src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-purple?style=for-the-badge&logo=github" 
-        alt="Portfolio"
-      />
+      <img src="https://img.shields.io/badge/Portfolio-View%20Work-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:yadav.sho@northeastern.edu">
-      <img 
-        src="https://img.shields.io/badge/Email-Shoot%20me%20a%20note-red?style=for-the-badge&logo=gmail" 
-        alt="Email"
-      />
+      <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
 </div>
 
-<!-- 🌊 Section divider -->
+<!-- Simple SVG Divider (hosted in your repo) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shourya0523/assets/main/wave-divider.svg" width="100%" alt="wave divider"/>
+  <img src="https://raw.githubusercontent.com/shourya0523/assets/main/minimal-divider.svg" width="100%" alt="divider"/>
 </p>
 
-<div align="center">
+## 📊 GitHub Stats
 
-  <!-- 📊 GitHub Stats Cards with neon glow effect -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=radical&border_color=FFD700&text_color=ffffff&icon_color=FF69B4" 
-    width="45%" 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=dark&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF"
+    width="49%"
     alt="GitHub Stats"
-    style="box-shadow: 0 0 20px rgba(255,105,180,0.6); border-radius: 0.5rem;"
+    style="border-radius: 0.5rem;"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya0523&layout=compact&theme=radical&border_color=FFD700" 
-    width="45%" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya0523&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9&hide=HTML"
+    width="49%"
     alt="Top Languages"
-    style="box-shadow: 0 0 20px rgba(255,105,180,0.6); border-radius: 0.5rem;"
+    style="border-radius: 0.5rem;"
   />
-
-  <!-- 🌐 Tech Stack Icons with hover scale -->
-  <p style="margin-top: 1.5rem;">
-    <img src="https://skillicons.dev/icons?i=python,js,react,express,tailwind,sql&theme=dark" alt="Tech Icons" style="filter: drop-shadow(0 0 5px #FFD700); transition: transform .2s;" />
-  </p>
-
-  <!-- 🎨 Moodboard Gallery -->
-  <p style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; margin-top: 2rem;">
-    <img src="https://source.unsplash.com/200x200/?waterfall" alt="Waterfall" style="border-radius: 1rem;" />
-    <img src="https://source.unsplash.com/200x200/?neon,city" alt="Neon City" style="border-radius: 1rem;" />
-    <img src="https://source.unsplash.com/200x200/?music,studio" alt="Music Studio" style="border-radius: 1rem;" />
-    <img src="https://source.unsplash.com/200x200/?space" alt="Space" style="border-radius: 1rem;" />
-  </p>
-
-</div>
-
-<!-- 🔻 Ripple Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shourya0523/assets/main/ripple-divider.svg" width="100%" alt="ripple divider"/>
 </p>
 
-### 📂 Featured Projects
+## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shourya0523/awesome-project">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=shourya0523&repo=awesome-project&theme=radical&border_color=FFD700" 
-          width="200" 
-          alt="Awesome Project"
-        />
-      </a>
-      <p>A tool that automates X with AI 🔄</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shourya0523/another-repo">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/pin/?username=shourya0523&repo=another-repo&theme=radical&border_color=FFD700" 
-          width="200" 
-          alt="Another Repo"
-        />
-      </a>
-      <p>A web app that visualizes Y data 📈</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="filter: invert(85%) sepia(3%) saturate(679%) hue-rotate(180deg) brightness(100%) contrast(92%);" alt="SQL"/>
+</p>
+
+<!-- Final Divider -->
+<hr style="border: none; height: 1px; background-color: #30363D;"/>
