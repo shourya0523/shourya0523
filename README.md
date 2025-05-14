@@ -19,7 +19,7 @@
   <!-- Social Buttons -->
   <p>
     [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/shouryadav)
-    [![Portfolio](https://img.shields.io/badge/portfolio-Visit%20Site-blue?style=for-the-badge&logo=webflow)](https://shourya0523.github.io/portfolio_site/)
+    [![Portfolio](https://img.shields.io/badge/portfolio-Visit%20Site-blue?style=for-the-badge&logo=webflow)](https://shourya0523.github.io/portfolio_site/)]
     [![Email](https://img.shields.io/badge/email-✉️%20shourya%40email.com-red?style=for-the-badge&logo=gmail)](mailto:yadav.sho@northeastern.edu)
   </p>
 </div>
