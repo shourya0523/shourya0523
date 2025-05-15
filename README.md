@@ -10,21 +10,10 @@
          /* dark overlay */
          linear-gradient(rgba(13,17,23,0.85), rgba(13,17,23,0.85)),
          /* forest + waterfall image */
-         url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=80')
+         url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=80](https://unsplash.com/photos/long-exposure-photo-of-lake-with-waterfall-at-daytime-YvkH8R1zoQM')
            center/cover no-repeat;
      ">
 
-  <!-- Waterfall Accents -->
-  <img
-    src="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=200&q=60"
-    alt="Waterfall icon"
-    style="position: absolute; top: 1rem; left: 1rem; width: 60px; opacity: 0.8;"
-  />
-  <img
-    src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=200&q=60"
-    alt="Misty forest"
-    style="position: absolute; bottom: 1rem; right: 1rem; width: 80px; opacity: 0.7;"
-  />
 
   <!-- Animated Intro -->
   <img
