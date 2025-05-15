@@ -22,7 +22,7 @@
     <a href="#roadmap-progress" style="text-decoration: none; margin: 0 .5rem;">
       <img src="https://img.shields.io/badge/-Roadmap-24292F?style=for-the-badge&logo=roadmap&logoColor=58A6FF" alt="Roadmap"/>
     </a>
-    <a href="#contact" style="text-decoration: none; margin: 0 .5rem;">
+    <a href="#contact" style="text-decoration: none; margin: 0 .5rem;">xx
       <img src="https://img.shields.io/badge/-Contact-24292F?style=for-the-badge&logo=mail&logoColor=58A6FF" alt="Contact"/>
     </a>
   </p>
@@ -99,4 +99,4 @@
 ⚡️ Tip: I’m currently accepting co-op inquiries for Summer ’26!
 
 <!-- ==================== Footer ==================== --> 
-<p align="center" style="margin-top: 3rem; color: #8B949E;"> &nbsp;|&nbsp; Thanks for stopping by! </p> ```
+<p align="center" style="margin-top: 3rem; color: #8B949E;"> Thanks for stopping by! </p> ```
