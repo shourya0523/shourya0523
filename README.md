@@ -1,102 +1,61 @@
-
 <!-- ==================== Hero & Quick Nav ==================== -->
-<div align="center" style="background: #0D1117; padding: 2rem; border-radius: 1rem;">
+<div align="center" style="margin-top: 3rem; padding: 2.5rem; border-radius: 1rem;
+  background: linear-gradient(135deg, #0D1117 0%, #1B1A3F 50%, #330E57 100%);
+  box-shadow: 0 0 30px rgba(88, 166, 255, 0.2);">
 
-  <!-- Animated Intro -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=58A6FF&center=true&width=1200&lines=%E2%9C%A9+Hi,+I'm+Shourya+%E2%9C%A9"
-    alt="Typing SVG"
-  />
+  <!-- Animated Gradient Name -->
+  <h1 style="
+    font-family: 'Inconsolata', monospace;
+    font-size: 3rem;
+    font-weight: bold;
+    background: linear-gradient(90deg, #58A6FF, #C084FC, #58A6FF);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient-text 5s ease infinite;
+    margin-bottom: 1rem;
+  ">
+    ✧ Hi, I'm Shourya ✧
+  </h1>
 
   <!-- Fun Facts -->
-  <p style="color: #C9D1D9; font-size: 1.1rem; margin-top: 1rem;">
+  <p style="color: #C9D1D9; font-size: 1.1rem; margin-top: 0.5rem;">
     🎓 BSc in Data Science & Fintech · 💻 Finance | Machine Learning | AI<br/>
     🎵 Music Producer · 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
   </p>
 
-  <!-- Quick-Nav Tiles -->
-  <p style="margin: 1.5rem 0;">
+  <!-- Quick Nav -->
+  <p style="margin: 1.8rem 0;">
     <a href="#featured-projects" style="text-decoration: none; margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Projects-24292F?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects"/>
+      <img src="https://img.shields.io/badge/-Projects-24292F?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects" />
     </a>
     <a href="#roadmap-progress" style="text-decoration: none; margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Roadmap-24292F?style=for-the-badge&logo=roadmap&logoColor=58A6FF" alt="Roadmap"/>
+      <img src="https://img.shields.io/badge/-Roadmap-24292F?style=for-the-badge&logo=roadmap&logoColor=58A6FF" alt="Roadmap" />
     </a>
-    <a href="#contact" style="text-decoration: none; margin: 0 .5rem;">xx
-      <img src="https://img.shields.io/badge/-Contact-24292F?style=for-the-badge&logo=mail&logoColor=58A6FF" alt="Contact"/>
+    <a href="#contact" style="text-decoration: none; margin: 0 .5rem;">
+      <img src="https://img.shields.io/badge/-Contact-24292F?style=for-the-badge&logo=mail&logoColor=58A6FF" alt="Contact" />
     </a>
   </p>
 
-  <!-- Social & Now Playing / Coding -->
+  <!-- Social Links -->
   <p>
-    <a href="http://linkedin.com/in/shouryadav" style="margin: 0 .3rem;">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="http://linkedin.com/in/shouryadav" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://shourya0523.github.io/portfolio_site/" style="margin: 0 .3rem;">
-      <img src="https://img.shields.io/badge/Portfolio-View%20Work-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <a href="https://shourya0523.github.io/portfolio_site/" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/Portfolio-View%20Work-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:yadav.sho@northeastern.edu" style="margin: 0 .3rem;">
-      <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="mailto:yadav.sho@northeastern.edu" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
+      <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
-
-  <p>
-    <img src="https://spotify-readme.now.sh/api/v1/now-playing" alt="Spotify Now Playing" style="margin: 0 .5rem; filter: drop-shadow(0 0 5px #58A6FF);" />
-    <img src="https://wakatime.com/badge/user/your-id.svg" alt="WakaTime" style="margin: 0 .5rem; filter: drop-shadow(0 0 5px #58A6FF);" />
-  </p>
-
 </div>
 
-<!-- ==================== SVG Divider ==================== -->
-<hr style="border: none; height: 1px; background-color: #30363D; margin: 2rem 0;" />
-
-<!-- ==================== Stats & Streaks ==================== -->
-<div align="center">
-
-  <p>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=dark&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF"
-      width="45%"
-      alt="GitHub Stats"
-      style="border-radius: 0.5rem; filter: drop-shadow(0 0 10px rgba(88,166,255,0.4)); transition: transform .2s;"
-      onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourya0523&layout=compact&theme=dark&bg_color=0D1117&text_color=C9D1D9"
-      width="45%"
-      alt="Top Languages"
-      style="border-radius: 0.5rem; filter: drop-shadow(0 0 10px rgba(88,166,255,0.4)); transition: transform .2s;"
-      onmouseover="this.style.transform='scale(1.03)';" onmouseout="this.style.transform='scale(1)';"
-    />
-  </p>
-
-  <p>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=shourya0523&theme=dark&border=58A6FF"
-      width="45%"
-      alt="GitHub Streak"
-      style="border-radius: 0.5rem; margin: 1rem; filter: drop-shadow(0 0 10px rgba(88,166,255,0.4));"
-    />
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=shourya0523&theme=dark&margin-w=15&margin-h=15"
-      width="45%"
-      alt="Trophies"
-      style="border-radius: 0.5rem; margin: 1rem; filter: drop-shadow(0 0 10px rgba(88,166,255,0.4));"
-    />
-  </p>
-
-</div>
-
-<!-- ==================== Roadmap & Progress ==================== -->
-<details id="roadmap-progress">
-  <summary style="cursor: pointer; color: #58A6FF; font-weight: bold;">🛣️ What I'm Learning </summary>
-  
-- [ ] ES6+ Deep Dive
-- [ ] AWS for AI
-- [ ] AWS for Cloud
-      
-</details> <!-- ==================== Visitor Counter & Tip ==================== --> <p align="center" style="margin-top: 2rem;"> <img src="https://visitor-badge.laobi.icu/badge?page_id=shourya0523.shourya0523&style=for-the-badge&color=58A6FF" alt="Visitor Counter" /> </p>
-⚡️ Tip: I’m currently accepting co-op inquiries for Summer ’26!
-
-<!-- ==================== Footer ==================== --> 
-<p align="center" style="margin-top: 3rem; color: #8B949E;"> Thanks for stopping by! </p> ```
+<!-- Gradient Text Animation -->
+<style>
+@keyframes gradient-text {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
