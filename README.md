@@ -1,61 +1,76 @@
 <!-- ==================== Hero & Quick Nav ==================== -->
-<div align="center" style="margin-top: 3rem; padding: 2.5rem; border-radius: 1rem;
-  background: linear-gradient(135deg, #0D1117 0%, #1B1A3F 50%, #330E57 100%);
-  box-shadow: 0 0 30px rgba(88, 166, 255, 0.2);">
+<div align="center"
+     style="
+       position: relative;
+       margin-top: 2.5rem;
+       padding: 3rem 1rem;
+       border-radius: 1rem;
+       color: #E0E0E0;
+       background:
+         /* dark overlay */
+         linear-gradient(rgba(13,17,23,0.85), rgba(13,17,23,0.85)),
+         /* forest + waterfall image */
+         url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=80')
+           center/cover no-repeat;
+     ">
 
-  <!-- Animated Gradient Name -->
-  <h1 style="
-    font-family: 'Inconsolata', monospace;
-    font-size: 3rem;
-    font-weight: bold;
-    background: linear-gradient(90deg, #58A6FF, #C084FC, #58A6FF);
-    background-size: 300% 300%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient-text 5s ease infinite;
-    margin-bottom: 1rem;
-  ">
-    ✧ Hi, I'm Shourya ✧
-  </h1>
+  <!-- Waterfall Accents -->
+  <img
+    src="https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=200&q=60"
+    alt="Waterfall icon"
+    style="position: absolute; top: 1rem; left: 1rem; width: 60px; opacity: 0.8;"
+  />
+  <img
+    src="https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=200&q=60"
+    alt="Misty forest"
+    style="position: absolute; bottom: 1rem; right: 1rem; width: 80px; opacity: 0.7;"
+  />
 
-  <!-- Fun Facts -->
-  <p style="color: #C9D1D9; font-size: 1.1rem; margin-top: 0.5rem;">
-    🎓 BSc in Data Science & Fintech · 💻 Finance | Machine Learning | AI<br/>
-    🎵 Music Producer · 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
+  <!-- Animated Intro -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=82FFC1&center=true&width=1200&lines=%E2%9C%A9+Hi,+I'm+Shourya+%E2%9C%A9"
+    alt="Typing SVG"
+    style="max-width: 100%;"
+  />
+
+  <!-- Fun Facts with Colored Bullets -->
+  <p style="font-size: 1.1rem; margin-top: 1.5rem; line-height:1.6;">
+    <span style="color:#82FFC1;">●</span> 🎓 BSc in Data Science & Fintech<br/>
+    <span style="color:#FF9CEE;">●</span> 💻 Finance | Machine Learning | AI<br/>
+    <span style="color:#A0E7E5;">●</span> 🎵 Music Producer<br/>
+    <span style="color:#B4EEB4;">●</span> 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
   </p>
 
-  <!-- Quick Nav -->
+  <!-- Quick-Nav Tiles -->
   <p style="margin: 1.8rem 0;">
-    <a href="#featured-projects" style="text-decoration: none; margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Projects-24292F?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Projects" />
+    <a href="#featured-projects" style="margin: 0 .5rem;">
+      <img src="https://img.shields.io/badge/-Projects-1F2937?style=for-the-badge&logo=github&logoColor=82FFC1" alt="Projects"/>
     </a>
-    <a href="#roadmap-progress" style="text-decoration: none; margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Roadmap-24292F?style=for-the-badge&logo=roadmap&logoColor=58A6FF" alt="Roadmap" />
+    <a href="#roadmap-progress" style="margin: 0 .5rem;">
+      <img src="https://img.shields.io/badge/-Roadmap-1F2937?style=for-the-badge&logo=roadmap&logoColor=FF9CEE" alt="Roadmap"/>
     </a>
-    <a href="#contact" style="text-decoration: none; margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Contact-24292F?style=for-the-badge&logo=mail&logoColor=58A6FF" alt="Contact" />
+    <a href="#contact" style="margin: 0 .5rem;">
+      <img src="https://img.shields.io/badge/-Contact-1F2937?style=for-the-badge&logo=mail&logoColor=A0E7E5" alt="Contact"/>
     </a>
   </p>
 
-  <!-- Social Links -->
+  <!-- Social Links with Gradient Hover -->
   <p>
-    <a href="http://linkedin.com/in/shouryadav" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://linkedin.com/in/shouryadav" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=82FFC1" alt="LinkedIn"/>
     </a>
-    <a href="https://shourya0523.github.io/portfolio_site/" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://img.shields.io/badge/Portfolio-View%20Work-gray?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <a href="https://shourya0523.github.io/portfolio_site/" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
+      <img src="https://img.shields.io/badge/Portfolio-View%20Work-1F2937?style=for-the-badge&logo=github&logoColor=FF9CEE" alt="Portfolio"/>
     </a>
-    <a href="mailto:yadav.sho@northeastern.edu" style="margin: 0 .3rem; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)'">
-      <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:yadav.sho@northeastern.edu" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
+      <img src="https://img.shields.io/badge/Email-Say%20Hi-1F2937?style=for-the-badge&logo=gmail&logoColor=A0E7E5" alt="Email"/>
     </a>
   </p>
-</div>
 
-<!-- Gradient Text Animation -->
-<style>
-@keyframes gradient-text {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+</div>
