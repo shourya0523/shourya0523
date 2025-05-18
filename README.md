@@ -30,18 +30,6 @@
     <span style="color:#B4EEB4;">●</span> 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
   </p>
 
-  <!-- Quick-Nav Tiles -->
-  <p style="margin: 1.8rem 0;">
-    <a href="#featured-projects" style="margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Projects-1F2937?style=for-the-badge&logo=github&logoColor=82FFC1" alt="Projects"/>
-    </a>
-    <a href="#roadmap-progress" style="margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Roadmap-1F2937?style=for-the-badge&logo=roadmap&logoColor=FF9CEE" alt="Roadmap"/>
-    </a>
-    <a href="#contact" style="margin: 0 .5rem;">
-      <img src="https://img.shields.io/badge/-Contact-1F2937?style=for-the-badge&logo=mail&logoColor=A0E7E5" alt="Contact"/>
-    </a>
-  </p>
 
   <!-- Social Links with Gradient Hover -->
   <p>
