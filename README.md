@@ -24,7 +24,7 @@
 
   <!-- Fun Facts with Colored Bullets -->
   <p style="font-size: 1.1rem; margin-top: 1.5rem; line-height:1.6;">
-    <span style="color:#82FFC1;">●</span> 🎓 BSc in Data Science & Fintech<br/>
+    <span style="color:#82FFC1;">●</span> 🎓 BSc in Computer Science & Fintech<br/>
     <span style="color:#FF9CEE;">●</span> 💻 Finance | Machine Learning | AI<br/>
     <span style="color:#A0E7E5;">●</span> 🎵 Music Producer<br/>
     <span style="color:#B4EEB4;">●</span> 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
