@@ -38,7 +38,7 @@
        onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=82FFC1" alt="LinkedIn"/>
     </a>
-    <a href="https://shourya0523.info" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
+    <a href="https://shouryadav.info" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
        onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
        onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
       <img src="https://img.shields.io/badge/Portfolio-View%20Work-1F2937?style=for-the-badge&logo=github&logoColor=FF9CEE" alt="Portfolio"/>
