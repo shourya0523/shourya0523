@@ -56,26 +56,18 @@ $ cat about.txt
 </div>
 
 <br>
-
-### ~/ the numbers
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shourya0523&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya0523&theme=tokyo-night&hide_border=true" width="98%" />
-
-</div>
-
-<br>
+</picture></div><br>~/ the numbers
+<div align="center"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=shourya0523&theme=tokyonight&no-frame=true&row=1&column=6" /><br><br>
+<img src="./profile/stats.svg" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" /><img src="./profile/top-langs.svg" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya0523&theme=tokyo-night&hide_border=true" width="49%" /></div><br><div align="center">currently building things I wished existed
+</div
+</br>
 
 <div align="center">
 
 *currently building things I wished existed*
 
 </div>
+
+
