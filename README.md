@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=88CE02&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Shourya;data+engineer+by+day%2C+builder+by+night;currently+shipping+AI+infra+%2B+random+side+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=88CE02&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Shourya;data+engineer+by+day%2C+builder+by+night;shipping+AI+infra+%2B+random+side+projects" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shouryadav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shourya0523@gmail.com)
@@ -67,7 +67,7 @@ $ cat about.txt
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya0523&theme=tokyo-night&hide_border=true" width="98%" />
 
