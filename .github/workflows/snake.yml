@@ -4,6 +4,9 @@ on:
     - cron: "0 0 * * *"   # runs once a day at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
