@@ -1,53 +1,82 @@
-<!-- ==================== Hero & Quick Nav ==================== -->
-<div align="center"
-     style="
-       position: relative;
-       margin-top: 2.5rem;
-       padding: 3rem 1rem;
-       border-radius: 1rem;
-       color: #E0E0E0;
-       background:
-         /* dark overlay */
-         linear-gradient(rgba(13,17,23,0.85), rgba(13,17,23,0.85)),
-         /* forest + waterfall image */
-         url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1800&q=80](https://unsplash.com/photos/long-exposure-photo-of-lake-with-waterfall-at-daytime-YvkH8R1zoQM')
-           center/cover no-repeat;
-     ">
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=88CE02&center=true&vCenter=true&width=600&lines=hey%2C+I'm+Shourya;data+engineer+by+day%2C+builder+by+night;currently+shipping+AI+infra+%2B+random+side+projects" alt="Typing SVG" />
 
-  <!-- Animated Intro -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=48&pause=300&color=82FFC1&center=true&width=1200&lines=%E2%9C%A9+Hi,+I'm+Shourya+%E2%9C%A9"
-    alt="Typing SVG"
-    style="max-width: 100%;"
-  />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shouryadav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shourya0523@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shouryadav.info)
 
-  <!-- Fun Facts with Colored Bullets -->
-  <p style="font-size: 1.1rem; margin-top: 1.5rem; line-height:1.6;">
-    <span style="color:#82FFC1;">●</span> 🎓 BSc in Computer Science & Fintech<br/>
-    <span style="color:#FF9CEE;">●</span> 💻 Finance | Machine Learning | AI<br/>
-    <span style="color:#A0E7E5;">●</span> 🎵 Music Producer<br/>
-    <span style="color:#B4EEB4;">●</span> 🍣 Foodie · ✈️ Traveler · 🌍 3 Continents
-  </p>
+![Profile views](https://komarev.com/ghpvc/?username=shourya0523&color=88CE02&style=flat-square&label=profile+views)
 
+</div>
 
-  <!-- Social Links with Gradient Hover -->
-  <p>
-    <a href="https://linkedin.com/in/shouryadav" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
-       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-1F2937?style=for-the-badge&logo=linkedin&logoColor=82FFC1" alt="LinkedIn"/>
-    </a>
-    <a href="https://shouryadav.info" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
-       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
-      <img src="https://img.shields.io/badge/Portfolio-View%20Work-1F2937?style=for-the-badge&logo=github&logoColor=FF9CEE" alt="Portfolio"/>
-    </a>
-    <a href="mailto:yadav.sho@northeastern.edu" style="margin: 0 .3rem; display: inline-block; transition: transform 0.2s, filter 0.2s;"
-       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';">
-      <img src="https://img.shields.io/badge/Email-Say%20Hi-1F2937?style=for-the-badge&logo=gmail&logoColor=A0E7E5" alt="Email"/>
-    </a>
-  </p>
+<br>
+
+### ~/ whoami
+
+```bash
+$ cat about.txt
+```
+
+- CS + Fintech @ Northeastern, class of 2025
+- Data Engineering Intern @ Kroll → heading to M3 as a Healthcare Research Associate this fall
+- Co-founded the Claude Builder Club at Northeastern — 200+ members, $30k+ in sponsorships
+- Live in the overlap between data infra and applied AI: NLP pipelines on patents and clinical trials, molecule databases, LLM-powered tooling
+- Also run a small AI consulting practice on the side, because apparently one job isn't enough
+
+<br>
+
+### ~/ toolbox
+
+![My Skills](https://skillicons.dev/icons?i=python,postgres,aws,pytorch,react,threejs,js,ts,nodejs,git,github,vscode,html,css)
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+
+<br>
+
+### ~/ contribution matrix — 3D
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+</div>
+
+<br>
+
+### ~/ someone let a snake into the grid
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shourya0523/shourya0523/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shourya0523/shourya0523/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shourya0523/shourya0523/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
+</div>
+
+<br>
+
+### ~/ the numbers
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shourya0523&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shourya0523&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya0523&theme=tokyo-night&hide_border=true" width="98%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*currently building things I wished existed*
 
 </div>
