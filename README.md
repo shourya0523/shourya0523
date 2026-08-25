@@ -21,8 +21,7 @@ $ cat about.txt
 - CS + Fintech @ Northeastern, class of 2025
 - Data Engineering Intern @ Kroll → heading to M3 as a Healthcare Research Associate this fall
 - Co-founded the Claude Builder Club at Northeastern — 200+ members, $30k+ in sponsorships
-- Live in the overlap between data infra and applied AI: NLP pipelines on patents and clinical trials, molecule databases, LLM-powered tooling
-- Also run a small AI consulting practice on the side, because apparently one job isn't enough
+- Live in the overlap between data infra, finance, healthcare, and applied AI: NLP pipelines on patents and clinical trials, molecule databases, LLM-powered tooling
 
 <br>
 
