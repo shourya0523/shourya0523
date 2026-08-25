@@ -61,15 +61,10 @@ $ cat about.txt
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=shourya0523&theme=tokyonight&no-frame=true&row=1&column=6&v=2" />
-
-<br><br>
-
 <img src="./profile/stats.svg" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=shourya0523&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="./profile/top-langs.svg" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shourya0523&theme=tokyo-night&hide_border=true&v=2" width="49%" />
+<img src="./profile/top-langs.svg" width="60%" />
 
 </div>
 
