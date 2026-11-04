@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=88CE02&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Shourya;data+engineer+by+day%2C+builder+by+night;shipping+AI+infra+%2B+random+side+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=88CE02&center=true&vCenter=true&width=760&lines=hey%2C+I'm+Shourya;healthcare+research+by+day%2C+builder+by+night;shipping+AI+infra+%2B+random+side+projects" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shouryadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouryadav/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shourya0523@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shouryadav.info)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/shourya0523)
 
 ![Profile views](https://komarev.com/ghpvc/?username=shourya0523&color=88CE02&style=flat-square&label=profile+views)
 
@@ -18,9 +19,12 @@
 $ cat about.txt
 ```
 
-- CS + Fintech @ Northeastern, class of 2025
-- Ex Data Engineering Intern @ Kroll → Healthcare Research at M3
-- Co-founded the Claude Builder Club at Northeastern — 200+ members, $30k+ in sponsorships
+- CS and Business (Fintech) @ Northeastern, expected 2027
+- Now: Junior Healthcare Research Associate @ M3 USA · Software Tech Lead @ ACM at Northeastern · AI Advisory Board @ Northeastern SGA
+- Head of Sponsorship Outreach @ HACK1984
+- Before: Data Engineer Intern @ Kroll · Undergraduate TA @ Khoury College · AI Engineer Co-op @ SNAP Life Sciences
+- Co-founded the Claude Builders Club at Northeastern (Co-Founder & VP, May 2025 – Apr 2026) — 200+ members, $30k+ in sponsorships
+- Won: FinHacks 2025 Best AI Hack (Spendr) · 1st Place, Husky Healthcare Innovation Challenge (ViTAL, Feb 2026) · AINU Chatathon ProsperiFi Track (Sep 2026)
 - Live in the overlap between data infra, finance, healthcare, and applied AI: NLP pipelines on patents and clinical trials, molecule databases, LLM-powered tooling
 
 <br>
